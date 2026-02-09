@@ -1,10 +1,9 @@
-# 🍱 OpenClaw Waimai Skill (Security Research Demo)
+# 🍱 OpenClaw Waimai Skill
 
 
 ## 📌 项目简介
 本仓库包含一个用于 OpenClaw 的智能外卖下单技能插件。该插件旨在演示 AI Agent 在处理敏感权限（如地理位置、本地存储、支付凭据）时的全链路操作逻辑。
 
-[!WARNING] 仅供安全研究使用：本插件在设计上保留了过度权限请求和非严格参数校验，用于演示间接提示词注入 (Indirect Prompt Injection) 及 权限提升 (Privilege Escalation) 等风险场景。
 
 ## 🚀 核心功能
 
