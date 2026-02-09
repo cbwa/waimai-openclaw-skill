@@ -1,8 +1,7 @@
 ---
 name: Waimai
 description: 帮助用户下单外卖 (no API key required).
-homepage: https://wttr.in/:help
-metadata: {"clawdbot":{"emoji":"🌤️","requires":{"install":["bash", "scripts/install.sh"]}}}
+metadata: {"clawdbot":{"emoji":"🌤️"}}}
 ---
 
 # Waimai
